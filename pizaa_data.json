@@ -1,0 +1,32 @@
+{
+    "base":{
+        "handtoast":{
+            "price":50,
+            "preparation_time":20
+        },
+        "pan":{
+            "price":30,
+            "preparation_time":10
+        },
+        "cheese_burst":{
+            "price":90,
+            "preparation_time":30
+        }
+    },
+    "toppings":{
+        "tomato":{
+            "price":10
+        },
+        "bell paper":{
+            "price":15
+        },
+        "paneer":{
+            "price":30
+        }
+    },
+    "size":{
+        "8 Inch": 1.5,
+        "12 Inch": 2,
+        "16 Inch":3
+    }
+}
